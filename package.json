@@ -1,8 +1,8 @@
 {
   "name": "url-encrypter",
-  "description": "A Vue.js project",
+  "description": "URL Encrypter for Blibli Geofencing service",
   "version": "1.0.0",
-  "author": "maharshigor <gor.maharshi@gmail.com>",
+  "author": "Karan Mehta",
   "license": "MIT",
   "private": true,
   "scripts": {
